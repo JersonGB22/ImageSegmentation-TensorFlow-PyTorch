@@ -45,7 +45,7 @@ Below are the evaluation results of the models implemented to date. In cases whe
 
 ### 📊 Semantic Segmentation 
 
-| Dataset | Domain | Model | $\text{mIoU}$ | $\text{Dice\ Score}$ | Eval. Set |
+| Dataset | Domain | Model | $\text{mIoU}$ | $\text{Dice Score}$ | Eval. Set |
 |---------|--------|-------|------|------------|-----------|
 | [UW-Madison GI Tract](https://www.kaggle.com/competitions/uw-madison-gi-tract-image-segmentation/) | Medical imaging (gastrointestinal tract) | SegFormer-B3 | 0.900 | 0.946 | Validation |
 | [LandCover.ai](https://arxiv.org/pdf/2005.02264v4) | Aerial land‑cover classification | SegFormer-B3 | 0.870 / 0.872 | 0.928 / 0.929 | Validation / Test |
